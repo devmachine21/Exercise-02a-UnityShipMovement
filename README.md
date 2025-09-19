@@ -22,9 +22,7 @@
 
 # \## Future Development
 
-# Add Scoring
-
-Add Enemies (Astrioids)
+- Make things pretty! ([CAR CRASH] [GLASS SHATTERING] ‘GOOD LORD!’ [GENERAL COMMOTION] [BABY CRYING] ‘WAAAAH WAAAAH’ [YELLING] [POLICE SIRENS] WEEWOO WEEWOO [HELICOPTERS] ‘WE’RE REPORTING LIVE-‘ [EXPLOSION] ‘MY LEG... MY LEG...’)
 
 # 
 
